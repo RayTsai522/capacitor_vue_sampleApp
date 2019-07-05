@@ -16,14 +16,12 @@ npm run electron:start
 ```
 
 * To run this sample app on ios and Android:
-> iOS
 iOS requires using Xcode to run this app
 ```bash
 npx cap open ios
 ```
 Once Xcode launches, you can build/simulate/run your app through the standard Xcode workflow.
 
-> Android
 Once Android Studio launches, you can build/emulate/run your app through the standard Android Studio workflow.
 ```bash
 npx cap open android
