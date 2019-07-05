@@ -1,0 +1,14 @@
+{
+  "appId": "www.tw.edu.stust.mis.raytsai",
+  "appName": "cap_vue",
+  "bundledWebRuntime": true,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+      "Keyboard": {
+        "resize": "native",
+        "style": "dark"
+      }
+    
+  }
+}
