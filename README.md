@@ -1,21 +1,21 @@
-## Building a sample app with ionic capacitor and vuejs
+# Building a sample app with ionic capacitor and vuejs
 
 * This app was created using the `npx @capacitor/cli create` command
 * The vuejs project was created using vue cli 2 `npm install -g vue-cli`
 
-### Running this example app on different platforms
+## Running this example app on different platforms
 
-* To run this sample app on web:
+### To run this sample app on web:
 ```bash
 npx cap serve
 ```
-* To run this sample app on Electron:
+### To run this sample app on Electron:
 ```bash
 cd electron
 npm run electron:start
 ```
 
-* To run this sample app on ios and Android:
+### To run this sample app on ios and Android:
 iOS requires using Xcode to run this app
 ```bash
 npx cap open ios
